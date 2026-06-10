@@ -1,0 +1,11 @@
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\bin\Debug\Conceptos.exe.config
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\bin\Debug\Conceptos.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\bin\Debug\Conceptos.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.csproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.Form1.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.Properties.Resources.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.csproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.exe.config

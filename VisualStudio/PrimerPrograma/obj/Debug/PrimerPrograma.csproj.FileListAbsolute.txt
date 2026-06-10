@@ -1,0 +1,10 @@
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\bin\Debug\PrimerPrograma.exe.config
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\bin\Debug\PrimerPrograma.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\bin\Debug\PrimerPrograma.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.Properties.Resources.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\PrimerPrograma\obj\Debug\PrimerPrograma.exe.config
