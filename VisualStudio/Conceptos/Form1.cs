@@ -17,7 +17,6 @@ namespace Conceptos
         {
             InitializeComponent();
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -29,11 +28,20 @@ namespace Conceptos
             Aritmetica a1 = new Aritmetica();
             a1.Altura = 10;
             a1.Soporte = 10;
+            
             Aritmetica a2 = new Aritmetica(15, 20);
+            Aritmetica g1 = new Geometria();
+            Geometria g2 = (Geometria) new Aritmetica();
+
+            g1.Soporte = 10;
+            g1.Altura = 20;
+
+            ((Geometria) g1).Area();
 
             Matematicas s = new Matematicas(10, 20);
-            MessageBox.Show(s.Suma.ToString());
-            MessageBox.Show(s.Resta.ToString());
+            //MessageBox.Show(s.Potencia(15).ToString());
+            //MessageBox.Show(s.Potencia().ToString());
+            MessageBox.Show("El area es " + g1.Resultado);
 
             //MessageBox.Show(a1.Resultado.ToString(), "Area", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Exclamation);
             //MessageBox.Show(a2.Resultado.ToString());
