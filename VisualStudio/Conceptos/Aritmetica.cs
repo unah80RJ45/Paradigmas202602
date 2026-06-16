@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Conceptos
 {
@@ -16,9 +17,9 @@ namespace Conceptos
         public Aritmetica() { } 
 
         public int Resultado { get { return altura * Soporte; } }       
-
-        // Crear una clase llamada Matematicas que tenga para espificar
-        // el valor de dos operandos y me permita mostar las 4 operaciones basicas
-        // con esos dos operandos
+        public void Mostrar()
+        {
+            MessageBox.Show("El Resultado es :" + Resultado, "Resultado", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

@@ -46,7 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algebra.cs" />
+    <Compile Include="Animal.cs" />
     <Compile Include="Aritmetica.cs" />
+    <Compile Include="CRUD.cs" />
+    <Compile Include="Empleado.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +59,7 @@
     </Compile>
     <Compile Include="Geometria.cs" />
     <Compile Include="Matematicas.cs" />
+    <Compile Include="Perro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">

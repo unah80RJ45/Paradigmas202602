@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Conceptos
 {
-
-    internal class Geometria : Aritmetica
+    public interface Animal
     {
-        public int Area() { return Altura * Soporte; }
+        void Sonido();
+        void Tipo();
+        void Patas();
     }
 }

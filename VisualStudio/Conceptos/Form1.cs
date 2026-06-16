@@ -13,6 +13,7 @@ namespace Conceptos
 {
     public partial class Form1 : Form
     {
+        Empleado empleado = new Empleado();
         public Form1()
         {
             InitializeComponent();
@@ -45,6 +46,30 @@ namespace Conceptos
 
             //MessageBox.Show(a1.Resultado.ToString(), "Area", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Exclamation);
             //MessageBox.Show(a2.Resultado.ToString());
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Geometria geo = new Geometria(); Algebra alg = new Algebra();
+            geo.Altura = 10; geo.Soporte = 20;
+
+            alg.Altura = int.Parse( txtNumero1.Text); 
+            alg.Soporte = int.Parse(txtNumero2.Text);
+
+            /*geo.Mostrar();*/ 
+            alg.Mostrar();
+        }
+
+        private void cmdEmpleado_Click(object sender, EventArgs e)
+        {
+            DataRow nRow = empleado.tabEmpleado.NewRow();
+
+            nRow[0] = txtNumero1.Text; nRow[1] = txtNumero2.Text; nRow[2] = txtNumero3.Text;
+            empleado.INSERT(nRow); txtNumero1.Clear(); txtNumero2.Clear(); txtNumero3.Clear();
+        }
+        private void cmdMostrar_Click(object sender, EventArgs e)
+        {
+            empleado.Mostar();
         }
     }
 }
