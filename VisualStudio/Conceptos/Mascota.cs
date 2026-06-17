@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Conceptos
 {
-    public interface Animal
+    internal interface Mascota
     {
-        string Sonido();
-        string Tipo();
-        string Patas();
+        string Nombre();
+        string Dueno();
+        int Edad();
     }
 }

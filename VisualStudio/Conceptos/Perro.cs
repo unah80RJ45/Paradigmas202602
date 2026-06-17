@@ -7,10 +7,16 @@ using System.Windows.Forms;
 
 namespace Conceptos
 {
-    public class Perro : Animal
+    public class Perro : Animal, Mascota
     {
-        public void Sonido() { MessageBox.Show("Ladra"); }
-        public void Tipo() { MessageBox.Show("Mamiferao"); }
-        public void Patas() { MessageBox.Show("4"); }
+        private string nombre;
+        private string dueno;
+        private int edad;
+        public string Sonido() { return "Ladra"; }
+        public string Tipo() { return "Mamiferao"; }
+        public string Patas() { return "4"; }
+        public string Nombre() { return nombre; }
+        public string Dueno() {return dueno; }
+        public int Edad() { return edad; }
     }
 }
