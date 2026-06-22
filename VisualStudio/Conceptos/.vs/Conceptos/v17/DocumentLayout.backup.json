@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\estructuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:estructuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\estructuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:estructuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,23 +39,11 @@
       "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\mosquito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\mosquito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:mosquito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\conceptos\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47A2F5E6-4D78-430D-A45D-F4F7B3F87B8A}|Conceptos.csproj|solutionrelative:mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,11 +78,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estructuras.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Estructuras.cs",
+              "RelativeDocumentMoniker": "Estructuras.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Estructuras.cs",
+              "RelativeToolTip": "Estructuras.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:17:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estructuras.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Estructuras.cs",
+              "RelativeDocumentMoniker": "Estructuras.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Estructuras.cs [Design]",
+              "RelativeToolTip": "Estructuras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T13:16:08.021Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -84,39 +117,36 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:35:37.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T13:35:37.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "frmEmpleado.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\frmEmpleado.cs",
               "RelativeDocumentMoniker": "frmEmpleado.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\frmEmpleado.cs",
               "RelativeToolTip": "frmEmpleado.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAywA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:32:36.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T13:32:36.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "frmEmpleado.cs [Design]",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\frmEmpleado.cs",
               "RelativeDocumentMoniker": "frmEmpleado.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\frmEmpleado.cs [Design]",
               "RelativeToolTip": "frmEmpleado.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:24:43.957Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-17T13:24:43.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Mosquito.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Mosquito.cs",
               "RelativeDocumentMoniker": "Mosquito.cs",
@@ -124,12 +154,11 @@
               "RelativeToolTip": "Mosquito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:20:05.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T13:20:05.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Mascota.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Mascota.cs",
               "RelativeDocumentMoniker": "Mascota.cs",
@@ -137,25 +166,24 @@
               "RelativeToolTip": "Mascota.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-17T13:10:56.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-17T13:10:56.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Perro.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Perro.cs",
               "RelativeDocumentMoniker": "Perro.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Perro.cs",
               "RelativeToolTip": "Perro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-16T13:42:31.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
@@ -163,12 +191,11 @@
               "RelativeToolTip": "Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T13:36:26.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T13:36:26.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Empleado.cs",
               "RelativeDocumentMoniker": "Empleado.cs",
@@ -176,12 +203,11 @@
               "RelativeToolTip": "Empleado.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-16T13:10:37.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-16T13:10:37.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CRUD.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\CRUD.cs",
               "RelativeDocumentMoniker": "CRUD.cs",
@@ -189,12 +215,11 @@
               "RelativeToolTip": "CRUD.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T13:42:31.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T13:42:31.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Algebra.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Algebra.cs",
               "RelativeDocumentMoniker": "Algebra.cs",
@@ -206,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Geometria.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Geometria.cs",
               "RelativeDocumentMoniker": "Geometria.cs",
@@ -218,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Matematicas.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Matematicas.cs",
               "RelativeDocumentMoniker": "Matematicas.cs",
@@ -230,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Aritmetica.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Aritmetica.cs",
               "RelativeDocumentMoniker": "Aritmetica.cs",
@@ -242,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -254,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Conceptos\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

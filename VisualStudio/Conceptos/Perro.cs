@@ -18,5 +18,11 @@ namespace Conceptos
         public string Nombre() { return nombre; }
         public string Dueno() {return dueno; }
         public int Edad() { return edad; }
+        public Perro(string nom) { nombre = nom; }
+        public Perro(string nombre, string dueno)
+        {
+            this.nombre = nombre;
+            this.dueno = dueno;
+        }
     }
 }

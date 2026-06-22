@@ -10,3 +10,4 @@ C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.e
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.pdb
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.exe.config
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.frmEmpleado.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.Estructuras.resources

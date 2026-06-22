@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +14,9 @@ namespace Conceptos
     public partial class frmEmpleado : Form
     {
         Empleado empleado = new Empleado();
+        Empleado[] empArray = new Empleado[3];
+
+
         public frmEmpleado()
         {
             InitializeComponent();

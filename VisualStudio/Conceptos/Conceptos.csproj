@@ -51,6 +51,12 @@
     <Compile Include="Aritmetica.cs" />
     <Compile Include="CRUD.cs" />
     <Compile Include="Empleado.cs" />
+    <Compile Include="Estructuras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estructuras.Designer.cs">
+      <DependentUpon>Estructuras.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     <Compile Include="Perro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Estructuras.resx">
+      <DependentUpon>Estructuras.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
