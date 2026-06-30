@@ -11,3 +11,5 @@ C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.p
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.exe.config
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.frmEmpleado.resources
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.Estructuras.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.frmMatematicas.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Conceptos\obj\Debug\Conceptos.frmProducto.resources

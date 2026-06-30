@@ -1,0 +1,17 @@
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\ConceptoVB.exe.config
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\ConceptoVB.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\ConceptoVB.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\ConceptoVB.xml
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\Conceptos.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\Conceptos.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\bin\Debug\Conceptos.exe.config
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.vbproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.Form1.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.Resources.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.vbproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.vbproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.vbproj.Up2Date
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.xml
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\ConceptoVB\obj\Debug\ConceptoVB.exe.config

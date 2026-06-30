@@ -71,5 +71,17 @@ namespace Conceptos
         {
             empleado.Mostar();
         }
+
+        private void cmdSuma_Click(object sender, EventArgs e)
+        {
+            //frmMatematicas frm = new frmMatematicas();
+            //frm.ShowDialog();
+        }
+
+        private void cmdProducto_Click(object sender, EventArgs e)
+        {
+            frmProducto frm = new frmProducto();
+            frm.ShowDialog();
+        }
     }
 }
