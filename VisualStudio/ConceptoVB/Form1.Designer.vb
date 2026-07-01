@@ -22,17 +22,29 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.cmdCheque = New System.Windows.Forms.Button()
         Me.SuspendLayout()
+        '
+        'cmdCheque
+        '
+        Me.cmdCheque.Location = New System.Drawing.Point(147, 65)
+        Me.cmdCheque.Name = "cmdCheque"
+        Me.cmdCheque.Size = New System.Drawing.Size(180, 63)
+        Me.cmdCheque.TabIndex = 0
+        Me.cmdCheque.Text = "Cheque"
+        Me.cmdCheque.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(699, 315)
+        Me.ClientSize = New System.Drawing.Size(699, 340)
+        Me.Controls.Add(Me.cmdCheque)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
 
     End Sub
 
+    Friend WithEvents cmdCheque As Button
 End Class
