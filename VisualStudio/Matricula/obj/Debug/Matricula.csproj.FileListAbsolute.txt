@@ -1,0 +1,11 @@
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.csproj.AssemblyReference.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.Form1.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.Properties.Resources.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.csproj.GenerateResource.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\bin\Debug\Matricula.exe.config
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\bin\Debug\Matricula.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\bin\Debug\Matricula.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.exe
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.pdb
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.exe.config
