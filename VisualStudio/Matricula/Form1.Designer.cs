@@ -39,7 +39,7 @@
             // 
             this.txtCodigo.Location = new System.Drawing.Point(103, 28);
             this.txtCodigo.Name = "txtCodigo";
-            this.txtCodigo.Size = new System.Drawing.Size(257, 20);
+            this.txtCodigo.Size = new System.Drawing.Size(98, 20);
             this.txtCodigo.TabIndex = 0;
             this.txtCodigo.TextChanged += new System.EventHandler(this.txtCodigo_TextChanged);
             this.txtCodigo.Validating += new System.ComponentModel.CancelEventHandler(this.txtCodigo_Validating);

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:47:11.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs",
+              "RelativeToolTip": "frmMenu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:44:11.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs",
+              "RelativeDocumentMoniker": "frmMenu.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs [Design]",
+              "RelativeToolTip": "frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:43:50.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:18:37.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:10:21.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:08:08.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:07:59.894Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
