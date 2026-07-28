@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|c:\\dev\\unah\\2026\\2026-02\\paradigmas\\visualstudio\\matricula\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE67F827-B0BB-447E-8FD3-BD6706D8C69C}|Matricula.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +54,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "frmAlumno.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmAlumno.cs",
+              "RelativeDocumentMoniker": "frmAlumno.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmAlumno.cs",
+              "RelativeToolTip": "frmAlumno.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T13:32:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAlumno.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmAlumno.cs",
+              "RelativeDocumentMoniker": "frmAlumno.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmAlumno.cs [Design]",
+              "RelativeToolTip": "frmAlumno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T13:30:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -54,71 +86,67 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAUwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T13:47:11.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T13:47:11.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "frmMenu.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs",
               "RelativeDocumentMoniker": "frmMenu.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs",
               "RelativeToolTip": "frmMenu.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T13:44:11.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T13:44:11.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "frmMenu.cs [Design]",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs",
               "RelativeDocumentMoniker": "frmMenu.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmMenu.cs [Design]",
               "RelativeToolTip": "frmMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T13:43:50.486Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-07-23T13:43:50.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs",
-              "RelativeToolTip": "frmLogin.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBUAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs*",
+              "RelativeToolTip": "frmLogin.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T13:18:37.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
-              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs [Design]",
-              "RelativeToolTip": "frmLogin.cs [Design]",
+              "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\frmLogin.cs [Design]*",
+              "RelativeToolTip": "frmLogin.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T13:10:21.656Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA1wBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T13:08:08.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T13:08:08.696Z"
             },
             {
               "$type": "Document",
@@ -129,8 +157,7 @@
               "ToolTip": "C:\\Dev\\UNAH\\2026\\2026-02\\Paradigmas\\VisualStudio\\Matricula\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T13:07:59.894Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-07-23T13:07:59.894Z"
             }
           ]
         }

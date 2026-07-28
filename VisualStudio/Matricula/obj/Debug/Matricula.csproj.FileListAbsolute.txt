@@ -11,3 +11,4 @@ C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.p
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.exe.config
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.frmLogin.resources
 C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.frmMenu.resources
+C:\Dev\UNAH\2026\2026-02\Paradigmas\VisualStudio\Matricula\obj\Debug\Matricula.frmAlumno.resources

@@ -28,13 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.cmdAlumno = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // cmdAlumno
+            // 
+            this.cmdAlumno.Location = new System.Drawing.Point(125, 68);
+            this.cmdAlumno.Name = "cmdAlumno";
+            this.cmdAlumno.Size = new System.Drawing.Size(183, 67);
+            this.cmdAlumno.TabIndex = 2;
+            this.cmdAlumno.Text = "Alumno";
+            this.cmdAlumno.UseVisualStyleBackColor = true;
+            this.cmdAlumno.Click += new System.EventHandler(this.cmdAlumno_Click);
             // 
             // frmMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(397, 237);
+            this.ClientSize = new System.Drawing.Size(461, 265);
+            this.Controls.Add(this.cmdAlumno);
             this.Name = "frmMenu";
             this.Text = "frmMenu";
             this.Load += new System.EventHandler(this.frmMenu_Load);
@@ -43,5 +55,7 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.Button cmdAlumno;
     }
 }

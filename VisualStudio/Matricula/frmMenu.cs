@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Matricula
 {
     public partial class frmMenu : Form
     {
+        SqlConnection connect;
         public frmMenu()
         {
             InitializeComponent();
@@ -25,11 +27,16 @@ namespace Matricula
 
             if (frm.Conectado)
             {
-                Form1 frm1 = new Form1();
-                frm1.Show();
+                connect = frm.Conexion;
             }
             else
                 Close();
+        }
+
+        private void cmdAlumno_Click(object sender, EventArgs e)
+        {
+            frmAlumno frm = new frmAlumno(connect);
+            frm.ShowDialog();
         }
     }
 }
